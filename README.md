@@ -25,7 +25,7 @@ _______________________________________________________________
 
 ### 📱 Connect With Me! 
 
-<a href="https://www.linkedin.com/in/brunomestanza">
+<a href="https://www.linkedin.com/in/brunomestanza" target="_blank">
   <code><img alt="My linkedin" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" /></code>
 </a>
 
@@ -45,7 +45,6 @@ _______________________________________________________________
   <code><img alt="My twitter" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" /></code>
 </a> 
 
-<br/><br/>
 _______________________________________________________________
 
 
@@ -90,17 +89,9 @@ _______________________________________________________________
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/1200px-Windows_logo_-_2012_%28dark_blue%29.svg.png" alt="Windows"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Icon-Mac.svg/1024px-Icon-Mac.svg.png" alt="Mac"/></code>
 
-<br/>
-
 _______________________________________________________________
 
 ## Coding Activity
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunomestanza&theme=algolia&show_icons=true" alt="BrunoMestanza's github stats" />
-</p>
 
 <br/>
 
@@ -108,6 +99,12 @@ _______________________________________________________________
   <a href="https://badges.pufler.dev">
       <img src="https://badges.pufler.dev/visits/brunomestanza/brunomestanza" alt="Visitors badge" />
    </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunomestanza&theme=algolia&show_icons=true" alt="BrunoMestanza's github stats" />
 </p>
 
 <br />
