@@ -95,14 +95,6 @@ _______________________________________________________________
 
 <br/>
 
-<p align="right">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/brunomestanza/brunomestanza" alt="Visitors badge" />
-   </a>
-</p>
-
-<br/>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brunomestanza&theme=algolia&show_icons=true" alt="BrunoMestanza's github stats" />
 </p>
