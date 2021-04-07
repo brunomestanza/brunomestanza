@@ -1,6 +1,6 @@
 # Hey! What's UP? <img width="70" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
-<img align="right" width="70%" src="https://media-exp1.licdn.com/dms/image/C4E16AQFKDcHCyjXqDA/profile-displaybackgroundimage-shrink_350_1400/0/1608176130173?e=1617235200&v=beta&t=Qp31kEqQRw_GHgonnv7xAjL_SkfGB0xGPoB8RtY3ivA" alt="Joke" />
+<img align="right" width="40%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Joke" />
 
 ### Welcome To My 🌍 World!
 <p>
@@ -9,7 +9,7 @@
   <b>Brazil. </b>
 </p>
 
-<br/><br/><br/>
+<br/>
 
 ### Talking About Personal Stuffs
 
