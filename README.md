@@ -63,7 +63,7 @@ _______________________________________________________________
 <h4 align="center">DevOps</h4>
 
 <p align="center">
-  <img height="32" src="https://i.pinimg.com/originals/f2/8a/f0/f28af02279f1a8f461adc29ff5a3a8f5.png" alt="Azure Dev Ops" />
+  <img height="32" src="https://user-images.githubusercontent.com/1874103/46415699-cfc5cf00-c6f3-11e8-9bcc-2fc2bf1759ec.png" alt="Azure Dev Ops" />
   <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git" />
   <img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub" />
   <img height="32" src="https://pomodoneapp.com/assets/images/service-landing/gitkraken-glo/gitkraken_glo.png" alt="Git Kraken" />
