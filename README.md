@@ -19,24 +19,6 @@
  - 🌱 I'm an eternal programming student; 
 
  - 🏆 I'm always trying to became better, defying myself everyday.
- _______________________________________________________________
- 
-<h3 align="center">📱 Connect With Me!</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/brunomestanza" target="_blank">
-    <img alt="My linkedin" src="https://img.shields.io/static/v1?label=Linkedin&message=brunomestanza&color=blue&style=for-the-badge&logo=Linkedin" />
-  </a>
-
-  <a href="https://www.instagram.com/dev_mestanza">
-    <img alt="My instagram" src="https://img.shields.io/static/v1?label=instagram&message=dev_mestanza&color=pink&style=for-the-badge&logo=Instagram" />
-  </a> 
-
-  <a href="https://www.facebook.com/bruno.mmestanza">
-    <img alt="My facebook" src="https://img.shields.io/static/v1?label=facebook&message=bruno.mmestanza&color=blue&style=for-the-badge&logo=Facebook" />
-  </a> 
-</p>
-
 _______________________________________________________________
 
 
@@ -112,4 +94,21 @@ _______________________________________________________________
   <a href="https://badges.pufler.dev">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomestanza&layout=compact" alt="Statistic Programming" />
    </a>
+</p>
+_______________________________________________________________
+ 
+<h3 align="center">📱 Connect With Me!</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/brunomestanza" target="_blank">
+    <img alt="My linkedin" src="https://img.shields.io/static/v1?label=Linkedin&message=brunomestanza&color=blue&style=for-the-badge&logo=Linkedin" />
+  </a>
+
+  <a href="https://www.instagram.com/dev_mestanza">
+    <img alt="My instagram" src="https://img.shields.io/static/v1?label=instagram&message=dev_mestanza&color=pink&style=for-the-badge&logo=Instagram" />
+  </a> 
+
+  <a href="https://www.facebook.com/bruno.mmestanza">
+    <img alt="My facebook" src="https://img.shields.io/static/v1?label=facebook&message=bruno.mmestanza&color=blue&style=for-the-badge&logo=Facebook" />
+  </a> 
 </p>
