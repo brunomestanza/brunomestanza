@@ -1,5 +1,3 @@
-<a href="http://example.com/" target="_blank">example</a>
-
 # Hey! What's UP? <img width="70" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
 <img align="right" width="40%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer Image" />
@@ -7,9 +5,9 @@
 ### 🌍 Welcome To My World!
 
 <p>
-  I'm Bruno, actually studing for became a refference of frontend development in <b>Brazil. </b>
+  I'm Bruno Mestanza, actually studing for became a refference of frontend development in <b>Brazil</b>.
   <br/>
-  I'm currently working on <a href="https://www.geopostenergy.com" target="_blank">Geopost Energy</a>.
+  I'm currently working on <a href="https://www.geopostenergy.com">Geopost Energy</a>.
 </p>
 
 ### Talking About Personal Stuffs
@@ -23,8 +21,7 @@
  - 🏆 I'm always trying to became better, defying myself everyday.
 _______________________________________________________________
 
-
-<h3 align="center">🚀 My Development Stack </h3>
+<h3 align="center">🚀 My Development Stack</h3>
 
 <h4 align="center">FrontEnd</h4>
 
@@ -107,7 +104,7 @@ _______________________________________________________________
 <h3 align="center">📱 Connect With Me!</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brunomestanza" target="_blank">
+  <a href="https://www.linkedin.com/in/brunomestanza">
     <img alt="My linkedin" src="https://img.shields.io/static/v1?label=Linkedin&message=brunomestanza&color=blue&style=for-the-badge&logo=Linkedin" />
   </a>
 
