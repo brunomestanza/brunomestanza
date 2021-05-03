@@ -57,6 +57,7 @@ _______________________________________________________________
   <img height="32" src="https://ssl.gstatic.com/images/branding/product/2x/hh_drive_96dp.png" alt="Drive Google" />
   <img height="32" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png" alt="Xampp" />
   <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/apache-226078.png" alt="Apache" />
+  <img height="32" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" alt="Postgres" />
 </p>
 
 <h4 align="center">DevOps</h4>
