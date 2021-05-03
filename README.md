@@ -11,13 +11,13 @@
 
 ### Talking About Personal Stuffs
 
- 🚀 I'm Studying Analysis and Systems Development;
+ - 🚀 I'm Studying Analysis and Systems Development;
 
- ❤️ I love to help people on digital performance;
+ - ❤️ I love to help people on digital performance;
 
- 🌱 I'm an eternal programming student; 
+ - 🌱 I'm an eternal programming student; 
 
- 🏆 I'm always trying to became better, defying myself everyday.
+ - 🏆 I'm always trying to became better, defying myself everyday.
  <br/>
 _______________________________________________________________
 
