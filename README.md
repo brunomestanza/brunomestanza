@@ -18,7 +18,7 @@
  🌱 I'm an eternal programming student; 
 
  🏆 I'm always trying to became better, defying myself everyday.
- <br/> <br/>
+ <br/>
 _______________________________________________________________
 
 <h1 align="center">📱 Connect With Me! </h1>
