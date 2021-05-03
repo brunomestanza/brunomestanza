@@ -7,7 +7,7 @@
 <p>
   I'm Bruno, actually studing for became a refference of frontend development in <b>Brazil. </b>
   <br/>
-  I'm currently working on <a href="https://www.geopostenergy.com" target="_blank" rel="noopener noreferrer">Geopost Energy</a>.
+  I'm currently working on <a href="https://www.geopostenergy.com" target="_blank">Geopost Energy</a>.
 </p>
 
 ### Talking About Personal Stuffs
