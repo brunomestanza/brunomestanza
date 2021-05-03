@@ -53,21 +53,24 @@ _______________________________________________________________
 <h4 align="center">Data, Domain And Hosting</h4>
 
 <p align="center">
-  <img height="32" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL" />
   <img height="32" src="https://ssl.gstatic.com/images/branding/product/2x/hh_drive_96dp.png" alt="Drive Google" />
+  <img height="32" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL" />
+  <img height="32" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" alt="Postgres" />
   <img height="32" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png" alt="Xampp" />
   <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/apache-226078.png" alt="Apache" />
-  <img height="32" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" alt="Postgres" />
 </p>
 
 <h4 align="center">DevOps</h4>
 
 <p align="center">
+  <img height="32" src="https://i.pinimg.com/originals/f2/8a/f0/f28af02279f1a8f461adc29ff5a3a8f5.png" alt="Azure Dev Ops" />
   <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git" />
   <img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub" />
   <img height="32" src="https://pomodoneapp.com/assets/images/service-landing/gitkraken-glo/gitkraken_glo.png" alt="Git Kraken" />
   <img height="32" src="https://i.imgur.com/Rq9TURL.png" alt="Visual Studio Code" />
   <img height="32" src="https://img.icons8.com/color/452/visual-studio.png" alt="Visual Studio" />
+  <img height="32" src="https://seeklogo.com/images/D/datagrip-logo-295CA63255-seeklogo.com.png" alt="Datagrip" />
+  <img height="32" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" alt="Office" />
   <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Virtualbox_logo.png/200px-Virtualbox_logo.png" alt="VirtualBox" />
 </p>
 
