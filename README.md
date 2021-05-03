@@ -4,9 +4,7 @@
 
 ### Welcome To My 🌍 World!
 <p>
-  I'm Bruno, actually studing for became a refference of frontend development in
-  <img width="17" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
-  <b>Brazil. </b>
+  I'm Bruno, actually studing for became a refference of frontend development in <b>Brazil. </b>
   <br/>
   I'm currently working on <a href="https://www.geopostenergy.com">Geopost Energy.</a>
 </p>
