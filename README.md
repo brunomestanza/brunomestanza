@@ -1,4 +1,4 @@
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+<a href="http://example.com/" target="_blank">example</a>
 
 # Hey! What's UP? <img width="70" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
