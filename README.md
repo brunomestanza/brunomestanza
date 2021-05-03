@@ -21,8 +21,6 @@
  <br/>
 _______________________________________________________________
 
-<h1 align="center">📱 Connect With Me! </h1>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/brunomestanza" target="_blank">
   <img alt="My linkedin" src="https://img.shields.io/static/v1?label=Linkedin&message=brunomestanza&color=blue&style=for-the-badge&logo=Linkedin" />
