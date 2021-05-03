@@ -90,12 +90,15 @@ _______________________________________________________________
 
 <h3 align="center">Operational Systems</h3>
 
-<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/865px-Tux.svg.png" alt="Linux" />
-<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/1200px-Windows_logo_-_2012_%28dark_blue%29.svg.png" alt="Windows" />
+<p align="center">
+  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/865px-Tux.svg.png" alt="Linux" />
+  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/1200px-Windows_logo_-_2012_%28dark_blue%29.svg.png"
+  alt="Windows" />
+</p>
 
 _______________________________________________________________
 
-## Coding Activity
+<h3 align="center">Coding Activity</h3>
 
 <br/>
 
