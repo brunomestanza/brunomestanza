@@ -25,8 +25,9 @@
  <br/> <br/>
 _______________________________________________________________
 
-### 📱 Connect With Me! 
+<h1 align="center">📱 Connect With Me! </h1>
 
+<p align="center">
 <a href="https://www.linkedin.com/in/brunomestanza" target="_blank">
   <img alt="My linkedin" src="https://img.shields.io/static/v1?label=Linkedin&message=brunomestanza&color=blue&style=for-the-badge&logo=Linkedin" />
 </a>
@@ -38,14 +39,16 @@ _______________________________________________________________
 <a href="https://www.facebook.com/bruno.mmestanza">
   <img alt="My facebook" src="https://img.shields.io/static/v1?label=facebook&message=bruno.mmestanza&color=blue&style=for-the-badge&logo=Facebook" />
 </a> 
+</p>
 
 _______________________________________________________________
 
 
 ## My Development Stack
 
-**FrontEnd**
+<h2 align="center">FrontEnd</h2>
 
+<p align="center">
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" />
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" />
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" />
@@ -54,8 +57,9 @@ _______________________________________________________________
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" />
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Reactjs" />
 <img height="32" src="https://www.mundojs.com.br/wp-content/uploads/2018/10/maxresdefault-1232x693.jpg" alt="Nextjs" />
+</p>
 
-**BackEnd**
+<h2>BackEnd</h2>
 
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs" />
 <img height="32" src="https://storage.googleapis.com/hcode.com.br/courses/65/logo_svg5fd776bc276da.svg" alt="C#" />
