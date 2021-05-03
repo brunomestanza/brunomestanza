@@ -1,3 +1,5 @@
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+
 # Hey! What's UP? <img width="70" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
 <img align="right" width="40%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer Image" />
