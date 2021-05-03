@@ -19,7 +19,6 @@
 
  - 🏆 I'm always trying to became better, defying myself everyday.
  <br/>
-_______________________________________________________________
 
 <p align="center">
 <a href="https://www.linkedin.com/in/brunomestanza" target="_blank">
