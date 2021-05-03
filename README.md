@@ -9,8 +9,6 @@
   I'm currently working on <a href="https://www.geopostenergy.com">Geopost Energy.</a>
 </p>
 
-<br/>
-
 ### Talking About Personal Stuffs
 
  🚀 I'm Studying Analysis and Systems Development;
