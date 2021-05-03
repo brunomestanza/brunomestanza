@@ -41,6 +41,7 @@ _______________________________________________________________
 
 
 <h1 align="center">🚀 My Development Stack </h1>
+
 <h2 align="center">FrontEnd</h2>
 
 <p align="center">
@@ -54,21 +55,27 @@ _______________________________________________________________
   <img height="32" src="https://www.mundojs.com.br/wp-content/uploads/2018/10/maxresdefault-1232x693.jpg" alt="Nextjs" />
 </p>
 
-<h2>BackEnd</h2>
+<h2 align="center">Responsive Design</h2>
 
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs" />
-<img height="32" src="https://storage.googleapis.com/hcode.com.br/courses/65/logo_svg5fd776bc276da.svg" alt="C#" />
+<p align="center">
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" />
+</p>
 
-**Data, Domain And Hosting**
+<h2 align="center">BackEnd</h2>
 
-<img height="32" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL" />
-<img height="32" src="https://ssl.gstatic.com/images/branding/product/2x/hh_drive_96dp.png" alt="Drive Google" />
-<img height="32" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png" alt="Xampp" />
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/apache-226078.png" alt="Apache" />
+<p align="center">
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs" />
+  <img height="32" src="https://storage.googleapis.com/hcode.com.br/courses/65/logo_svg5fd776bc276da.svg" alt="C#" />
+</p>
 
-**Responsive Design**
+<h1 align="center">Data, Domain And Hosting</h1>
 
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" />
+<p align="center">
+  <img height="32" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL" />
+  <img height="32" src="https://ssl.gstatic.com/images/branding/product/2x/hh_drive_96dp.png" alt="Drive Google" />
+  <img height="32" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png" alt="Xampp" />
+  <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/apache-226078.png" alt="Apache" />
+</p>
 
 **DevOps**
 
