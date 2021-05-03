@@ -68,7 +68,7 @@ _______________________________________________________________
   <img height="32" src="https://storage.googleapis.com/hcode.com.br/courses/65/logo_svg5fd776bc276da.svg" alt="C#" />
 </p>
 
-<h2 align="center">Data, Domain And Hosting</h2>
+<h4 align="center">Data, Domain And Hosting</h4>
 
 <p align="center">
   <img height="32" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL" />
@@ -77,7 +77,7 @@ _______________________________________________________________
   <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/apache-226078.png" alt="Apache" />
 </p>
 
-<h2 align="center">DevOps</h2>
+<h4 align="center">DevOps</h4>
 
 <p align="center">
   <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git" />
@@ -88,7 +88,7 @@ _______________________________________________________________
   <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Virtualbox_logo.png/200px-Virtualbox_logo.png" alt="VirtualBox" />
 </p>
 
-<h2 align="center">Operational Systems</h2>
+<h4 align="center">Operational Systems</h4>
 
 <p align="center">
   <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/865px-Tux.svg.png" alt="Linux" />
