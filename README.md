@@ -95,6 +95,7 @@ _______________________________________________________________
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomestanza&layout=compact" alt="Statistic Programming" />
    </a>
 </p>
+
 _______________________________________________________________
  
 <h3 align="center">📱 Connect With Me!</h3>
