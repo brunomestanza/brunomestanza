@@ -7,7 +7,7 @@
 <p>
   I'm Bruno Mestanza, actually studing for became a refference of frontend development in <b>Brazil</b>.
   <br/>
-  I'm currently working as a Junior BackEnd Developer at <a href="https://impulso.work/">Geopost Energy</a>.
+  I'm currently working as a Junior BackEnd Developer at <a href="https://impulso.work/">Impulso</a>.
 </p>
 
 ### Talking About Personal Stuffs
