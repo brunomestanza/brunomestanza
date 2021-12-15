@@ -1,7 +1,6 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/brunomestanza/069eda17f5e20bf9b78b892c82913e84/raw/77a6249393a64da240532cb1025aae73b55388b0/profilecard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruno Mestanza</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunomestanza&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 A Web Developer focused on improve myself everyday 
 
