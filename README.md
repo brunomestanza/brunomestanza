@@ -61,7 +61,3 @@
 </div>
 
 ###
-
-<img href="https://raw.githubusercontent.com/brunomestanza/brunomestanza/blob/output/snake.svg" alt="Snake animation" />
-
-###
